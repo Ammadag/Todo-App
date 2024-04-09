@@ -49,8 +49,6 @@ class MainActivity : AppCompatActivity() {
 
             })
         }
-
-
     }
     private fun clickListener() {
         binding.addTask.setOnClickListener {
